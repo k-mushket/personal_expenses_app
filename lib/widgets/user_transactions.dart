@@ -37,7 +37,7 @@ class _UserTransactionsState extends State<UserTransactions> {
 
     setState(() {
       _userTransactions.add(newTx);
-    }); 
+    });
   }
 
   @override
